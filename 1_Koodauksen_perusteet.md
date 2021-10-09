@@ -19,6 +19,8 @@ https://ohjelmointi-21.mooc.fi/osa-1
 - 1.1 Ohjelmoinnin aloittaminen: Kaikki tehtävät
 - 1.2 Tietoa käyttäjältä: Kaikki tehtävät
 - 1.3 Lisää muuttujista: Kaikki muut tehtävät, paitsi "Välilyönnillä vai ilman". Osan 1.3 alussa olevaan taustatietokyselyyn ei tarvitse vastata.
+    - LISÄTEHTÄVÄT - voit kokeilla jos olet edellä
+        - Välilyönnillä vai ilman
 - 1.4 Laskentaa luvuilla: Vain seuraavat tehtävät: 
     - Luku kertaa viisi
     - Nimi ja ikä
