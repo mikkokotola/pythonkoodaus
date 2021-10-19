@@ -16,11 +16,14 @@ https://ohjelmointi-21.mooc.fi/osa-1
 - Materiaali: katsotaan yhdessä luokan kanssa tuntien aluksi. Voit myös lukea materiaalia itse.
 
 ### Tehtävät: teemme seuraavat tehtävät:
+KERRAT 1 (4.10.) & 2 (11.10.) 
 - 1.1 Ohjelmoinnin aloittaminen: Kaikki tehtävät
 - 1.2 Tietoa käyttäjältä: Kaikki tehtävät
 - 1.3 Lisää muuttujista: Kaikki muut tehtävät, paitsi "Välilyönnillä vai ilman". Osan 1.3 alussa olevaan taustatietokyselyyn ei tarvitse vastata.
     - LISÄTEHTÄVÄT - voit kokeilla jos olet edellä
         - Välilyönnillä vai ilman
+
+KERTA 3:
 - 1.4 Laskentaa luvuilla: Vain seuraavat tehtävät: 
     - Luku kertaa viisi
     - Nimi ja ikä
@@ -28,6 +31,8 @@ https://ohjelmointi-21.mooc.fi/osa-1
     - Korjaa ohjelma: Lukujen tulo
     - Lukujen summa ja tulo
     - Kertaus - osa 1.4
+
+TULEVAT KERRAT
 - 1.5 Ehtorakenne: Vain seuraavat tehtävät: 
     - Orwell
     - Keittoa vai ei
