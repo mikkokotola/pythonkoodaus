@@ -32,7 +32,7 @@ KERTA 3:
     - Lukujen summa ja tulo
     - Kertaus - osa 1.4
 
-TULEVAT KERRAT
+KERTA 4:
 - 1.5 Ehtorakenne: Vain seuraavat tehtävät: 
     - Orwell
     - Keittoa vai ei
@@ -40,4 +40,6 @@ TULEVAT KERRAT
     - Huomiset vaatteet
     - Kertaus - osa 1.5; 
     - Osan 1 loppukyselyä ei tarvitse täyttää
+
+TULEVAT KERRAT
 - 2.2 Lisää ehtolauseita: Kaikki tehtävät
