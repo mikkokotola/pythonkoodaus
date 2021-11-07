@@ -1,0 +1,515 @@
+[
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/320px-Flag_of_the_Netherlands.svg.png",
+        "nimi": "Alankomaat",
+        "väestömäärä": 17441139,
+        "metsäpinta-ala": 10.9186219186219,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 8.7728237338512,
+        "elinajanodote": 81.8121951219512,
+        "sademäärä_vuosi_mm": 778
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/320px-Flag_of_Albania.svg.png",
+        "nimi": "Albania",
+        "väestömäärä": 2837743,
+        "metsäpinta-ala": 28.7919708029197,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 1.93973156347946,
+        "elinajanodote": 78.458,
+        "sademäärä_vuosi_mm": 1485
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/320px-Flag_of_Andorra.svg.png",
+        "nimi": "Andorra",
+        "väestömäärä": 77265,
+        "metsäpinta-ala": 34.0425531914894,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 5.97340536048203,
+        "elinajanodote": null,
+        "sademäärä_vuosi_mm": null
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/320px-Flag_of_Armenia.svg.png",
+        "nimi": "Armenia",
+        "väestömäärä": 2963234,
+        "metsäpinta-ala": 11.5521601685985,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 1.88024626821933,
+        "elinajanodote": 74.945,
+        "sademäärä_vuosi_mm": 562
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/320px-Flag_of_Azerbaijan.svg.png",
+        "nimi": "Azerbaidžan",
+        "väestömäärä": 10110116,
+        "metsäpinta-ala": 13.4139297553657,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 3.22140218320925,
+        "elinajanodote": 72.864,
+        "sademäärä_vuosi_mm": 447
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/277px-Flag_of_Belgium.svg.png",
+        "nimi": "Belgia",
+        "väestömäärä": 11555997,
+        "metsäpinta-ala": 22.7642007926024,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 8.17971106113614,
+        "elinajanodote": 81.5951219512195,
+        "sademäärä_vuosi_mm": 847
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/320px-Flag_of_Bosnia_and_Herzegovina.svg.png",
+        "nimi": "Bosnia ja Hertsegovina",
+        "väestömäärä": 3280815,
+        "metsäpinta-ala": 42.7326171875,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 6.78113160660171,
+        "elinajanodote": 77.262,
+        "sademäärä_vuosi_mm": 1028
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/320px-Flag_of_Bulgaria.svg.png",
+        "nimi": "Bulgaria",
+        "väestömäärä": 6927288,
+        "metsäpinta-ala": 35.6208548268239,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 5.85477343393352,
+        "elinajanodote": 74.9634146341464,
+        "sademäärä_vuosi_mm": 608
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/320px-Bandera_de_Espa%C3%B1a.svg.png",
+        "nimi": "Espanja",
+        "väestömäärä": 47351567,
+        "metsäpinta-ala": 37.1566467814769,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 5.52035039972218,
+        "elinajanodote": 83.4317073170732,
+        "sademäärä_vuosi_mm": 636
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flag_of_the_Faroe_Islands.svg/320px-Flag_of_the_Faroe_Islands.svg.png",
+        "nimi": "Färsaaret",
+        "väestömäärä": 48865,
+        "metsäpinta-ala": 0.0573065902578797,
+        "co2päästöt_tonnia_per_henkilö_vuosi": null,
+        "elinajanodote": 82.4951219512195,
+        "sademäärä_vuosi_mm": null
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/320px-Flag_of_Georgia.svg.png",
+        "nimi": "Georgia",
+        "väestömäärä": 3714000,
+        "metsäpinta-ala": 40.6159159591308,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 2.53854169098541,
+        "elinajanodote": 73.6,
+        "sademäärä_vuosi_mm": 1026
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Gibraltar.svg/320px-Flag_of_Gibraltar.svg.png",
+        "nimi": "Gibraltar",
+        "väestömäärä": 33691,
+        "metsäpinta-ala": 0,
+        "co2päästöt_tonnia_per_henkilö_vuosi": null,
+        "elinajanodote": null,
+        "sademäärä_vuosi_mm": null
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_Greenland.svg/320px-Flag_of_Greenland.svg.png",
+        "nimi": "Grönlanti",
+        "väestömäärä": 56367,
+        "metsäpinta-ala": 0.000535997076379583,
+        "co2päästöt_tonnia_per_henkilö_vuosi": null,
+        "elinajanodote": null,
+        "sademäärä_vuosi_mm": null
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/320px-Flag_of_Ireland.svg.png",
+        "nimi": "Irlanti",
+        "väestömäärä": 4994724,
+        "metsäpinta-ala": 11.2355929743069,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 7.62432519277565,
+        "elinajanodote": 82.2560975609756,
+        "sademäärä_vuosi_mm": 1118
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/320px-Flag_of_Iceland.svg.png",
+        "nimi": "Islanti",
+        "väestömäärä": 366425,
+        "metsäpinta-ala": 0.496280868789051,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 6.23722432177273,
+        "elinajanodote": 82.8609756097561,
+        "sademäärä_vuosi_mm": 1940
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/320px-Flag_of_Italy.svg.png",
+        "nimi": "Italia",
+        "väestömäärä": 59554023,
+        "metsäpinta-ala": 31.7687502099217,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 5.37637433931087,
+        "elinajanodote": 83.3463414634146,
+        "sademäärä_vuosi_mm": 832
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/320px-Flag_of_Austria.svg.png",
+        "nimi": "Itävalta",
+        "väestömäärä": 8917205,
+        "metsäpinta-ala": 47.1639602520601,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 7.14663762463773,
+        "elinajanodote": 81.6926829268293,
+        "sademäärä_vuosi_mm": 1110
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/320px-Flag_of_Kazakhstan.svg.png",
+        "nimi": "Kazakstan",
+        "väestömäärä": 18754440,
+        "metsäpinta-ala": 1.25799207319332,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 12.0619691393056,
+        "elinajanodote": 73.15,
+        "sademäärä_vuosi_mm": 250
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/320px-Flag_of_Kyrgyzstan.svg.png",
+        "nimi": "Kirgisia",
+        "väestömäärä": 6591600,
+        "metsäpinta-ala": 6.66788321167883,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 1.73973556019485,
+        "elinajanodote": 71.4,
+        "sademäärä_vuosi_mm": 533
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/320px-Flag_of_Greece.svg.png",
+        "nimi": "Kreikka",
+        "väestömäärä": 10715549,
+        "metsäpinta-ala": 30.2699767261443,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 6.08317505028006,
+        "elinajanodote": 81.7878048780488,
+        "sademäärä_vuosi_mm": 652
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/320px-Flag_of_Croatia.svg.png",
+        "nimi": "Kroatia",
+        "väestömäärä": 4047200,
+        "metsäpinta-ala": 34.1775932143488,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 4.05592876243046,
+        "elinajanodote": 78.0707317073171,
+        "sademäärä_vuosi_mm": 1113
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/320px-Flag_of_Cyprus.svg.png",
+        "nimi": "Kypros",
+        "väestömäärä": 1207361,
+        "metsäpinta-ala": 18.6764069264069,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 6.07940050216016,
+        "elinajanodote": 80.828,
+        "sademäärä_vuosi_mm": 498
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/320px-Flag_of_Latvia.svg.png",
+        "nimi": "Latvia",
+        "väestömäärä": 1901548,
+        "metsäpinta-ala": 54.8083427282976,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 3.95916507798465,
+        "elinajanodote": 74.7829268292683,
+        "sademäärä_vuosi_mm": 667
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/320px-Flag_of_Liechtenstein.svg.png",
+        "nimi": "Liechtenstein",
+        "väestömäärä": 38137,
+        "metsäpinta-ala": 41.875,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 3.69217785748193,
+        "elinajanodote": 83.0414634146342,
+        "sademäärä_vuosi_mm": null
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/320px-Flag_of_Lithuania.svg.png",
+        "nimi": "Liettua",
+        "väestömäärä": 2794700,
+        "metsäpinta-ala": 35.0950023950184,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 4.13700592851868,
+        "elinajanodote": 75.6804878048781,
+        "sademäärä_vuosi_mm": 656
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/320px-Flag_of_Luxembourg.svg.png",
+        "nimi": "Luxemburg",
+        "väestömäärä": 632275,
+        "metsäpinta-ala": 36.5020576131687,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 15.3302080763221,
+        "elinajanodote": 82.2951219512195,
+        "sademäärä_vuosi_mm": 934
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/320px-Flag_of_Malta.svg.png",
+        "nimi": "Malta",
+        "väestömäärä": 525285,
+        "metsäpinta-ala": 1.4375,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 3.19831624125622,
+        "elinajanodote": 82.4487804878049,
+        "sademäärä_vuosi_mm": 560
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_the_Isle_of_Man.svg/320px-Flag_of_the_Isle_of_Man.svg.png",
+        "nimi": "Mansaari",
+        "väestömäärä": 85032,
+        "metsäpinta-ala": 6.07017543859649,
+        "co2päästöt_tonnia_per_henkilö_vuosi": null,
+        "elinajanodote": null,
+        "sademäärä_vuosi_mm": null
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/320px-Flag_of_Moldova.svg.png",
+        "nimi": "Moldova",
+        "väestömäärä": 2617820,
+        "metsäpinta-ala": 11.7529716925191,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 3.17183206349277,
+        "elinajanodote": 71.808,
+        "sademäärä_vuosi_mm": 450
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/300px-Flag_of_Monaco.svg.png",
+        "nimi": "Monaco",
+        "väestömäärä": 39244,
+        "metsäpinta-ala": 0,
+        "co2päästöt_tonnia_per_henkilö_vuosi": null,
+        "elinajanodote": null,
+        "sademäärä_vuosi_mm": null
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/320px-Flag_of_Montenegro.svg.png",
+        "nimi": "Montenegro",
+        "väestömäärä": 621718,
+        "metsäpinta-ala": 61.4869888475836,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 4.0499689020245,
+        "elinajanodote": 76.77,
+        "sademäärä_vuosi_mm": null
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/320px-Flag_of_Norway.svg.png",
+        "nimi": "Norja",
+        "väestömäärä": 5379475,
+        "metsäpinta-ala": 33.3172787164122,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 7.0313611886935,
+        "elinajanodote": 82.7585365853659,
+        "sademäärä_vuosi_mm": 1414
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/320px-Flag_of_North_Macedonia.svg.png",
+        "nimi": "Pohjois-Makedonia",
+        "väestömäärä": 2083380,
+        "metsäpinta-ala": 39.7101506740682,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 3.53823914751961,
+        "elinajanodote": 75.688,
+        "sademäärä_vuosi_mm": 619
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/320px-Flag_of_Portugal.svg.png",
+        "nimi": "Portugali",
+        "väestömäärä": 10305564,
+        "metsäpinta-ala": 36.154994891142,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 4.84061276050869,
+        "elinajanodote": 81.3243902439024,
+        "sademäärä_vuosi_mm": 854
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/320px-Flag_of_Poland.svg.png",
+        "nimi": "Puola",
+        "väestömäärä": 37950802,
+        "metsäpinta-ala": 30.8946010386387,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 8.23547225459022,
+        "elinajanodote": 77.6024390243903,
+        "sademäärä_vuosi_mm": 600
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/320px-Flag_of_France.svg.png",
+        "nimi": "Ranska",
+        "väestömäärä": 67391582,
+        "metsäpinta-ala": 31.2044225532684,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 4.61924120513374,
+        "elinajanodote": 82.7243902439024,
+        "sademäärä_vuosi_mm": 867
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/320px-Flag_of_Romania.svg.png",
+        "nimi": "Romania",
+        "väestömäärä": 19286123,
+        "metsäpinta-ala": 30.1158292767733,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 3.84513275926788,
+        "elinajanodote": 75.3585365853659,
+        "sademäärä_vuosi_mm": 637
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/320px-Flag_of_Sweden.svg.png",
+        "nimi": "Ruotsi",
+        "väestömäärä": 10353442,
+        "metsäpinta-ala": 68.6946060739977,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 3.53800912688421,
+        "elinajanodote": 82.5585365853659,
+        "sademäärä_vuosi_mm": 624
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/320px-Flag_of_Germany.svg.png",
+        "nimi": "Saksa",
+        "väestömäärä": 83240525,
+        "metsäpinta-ala": 32.6836109680005,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 8.55838981170216,
+        "elinajanodote": 80.8926829268293,
+        "sademäärä_vuosi_mm": 700
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/320px-Flag_of_San_Marino.svg.png",
+        "nimi": "San Marino",
+        "väestömäärä": 33938,
+        "metsäpinta-ala": 16.6666666666667,
+        "co2päästöt_tonnia_per_henkilö_vuosi": null,
+        "elinajanodote": null,
+        "sademäärä_vuosi_mm": null
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/320px-Flag_of_Serbia.svg.png",
+        "nimi": "Serbia",
+        "väestömäärä": 6908224,
+        "metsäpinta-ala": 31.1227989938258,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 6.52192219406972,
+        "elinajanodote": 75.890243902439,
+        "sademäärä_vuosi_mm": null
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/320px-Flag_of_Slovakia.svg.png",
+        "nimi": "Slovakia",
+        "väestömäärä": 5458827,
+        "metsäpinta-ala": 40.05615640599,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 6.05863547411852,
+        "elinajanodote": 77.2658536585366,
+        "sademäärä_vuosi_mm": 824
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/320px-Flag_of_Slovenia.svg.png",
+        "nimi": "Slovenia",
+        "väestömäärä": 2100126,
+        "metsäpinta-ala": 61.674380723466,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 6.77469533158397,
+        "elinajanodote": 81.3780487804878,
+        "sademäärä_vuosi_mm": 1162
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/320px-Flag_of_Finland.svg.png",
+        "nimi": "Suomi",
+        "väestömäärä": 5530719,
+        "metsäpinta-ala": 73.7332192682285,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 8.04275204989552,
+        "elinajanodote": 81.7341463414634,
+        "sademäärä_vuosi_mm": 536
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/240px-Flag_of_Switzerland.svg.png",
+        "nimi": "Sveitsi",
+        "väestömäärä": 8636896,
+        "metsäpinta-ala": 31.9422269899076,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 4.40199104356902,
+        "elinajanodote": 83.7536585365854,
+        "sademäärä_vuosi_mm": 1537
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/320px-Flag_of_Tajikistan.svg.png",
+        "nimi": "Tadžikistan",
+        "väestömäärä": 9537642,
+        "metsäpinta-ala": 3.0391238561856,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 0.805419539521981,
+        "elinajanodote": 70.879,
+        "sademäärä_vuosi_mm": 691
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/318px-Flag_of_Denmark.svg.png",
+        "nimi": "Tanska",
+        "väestömäärä": 5831404,
+        "metsäpinta-ala": 15.664,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 5.76149416359606,
+        "elinajanodote": 80.9536585365854,
+        "sademäärä_vuosi_mm": 703
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/320px-Flag_of_Turkey.svg.png",
+        "nimi": "Turkki",
+        "väestömäärä": 84339067,
+        "metsäpinta-ala": 28.4660940971636,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 5.0154183703224,
+        "elinajanodote": 77.437,
+        "sademäärä_vuosi_mm": 593
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/320px-Flag_of_Turkmenistan.svg.png",
+        "nimi": "Turkmenistan",
+        "väestömäärä": 6031187,
+        "metsäpinta-ala": 8.78215904496414,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 12.2596481704872,
+        "elinajanodote": 68.073,
+        "sademäärä_vuosi_mm": 161
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/320px-Flag_of_the_Czech_Republic.svg.png",
+        "nimi": "Tšekki",
+        "väestömäärä": 10698896,
+        "metsäpinta-ala": 34.6304404145078,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 9.64070499819002,
+        "elinajanodote": 79.0292682926829,
+        "sademäärä_vuosi_mm": 677
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/320px-Flag_of_Ukraine.svg.png",
+        "nimi": "Ukraina",
+        "väestömäärä": 44134693,
+        "metsäpinta-ala": 16.7034863652054,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 4.15418063140229,
+        "elinajanodote": 71.5826829268293,
+        "sademäärä_vuosi_mm": 565
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/320px-Flag_of_Hungary.svg.png",
+        "nimi": "Unkari",
+        "väestömäärä": 9749763,
+        "metsäpinta-ala": 22.5281612973921,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 4.74550624393641,
+        "elinajanodote": 76.0658536585366,
+        "sademäärä_vuosi_mm": 589
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/320px-Flag_of_Uzbekistan.svg.png",
+        "nimi": "Uzbekistan",
+        "väestömäärä": 34232050,
+        "metsäpinta-ala": 8.25772037543553,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 3.4011912817354,
+        "elinajanodote": 71.573,
+        "sademäärä_vuosi_mm": 206
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/320px-Flag_of_Belarus.svg.png",
+        "nimi": "Valko-Venäjä",
+        "väestömäärä": 9398861,
+        "metsäpinta-ala": 43.0515321706572,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 6.25402079970694,
+        "elinajanodote": 74.1756097560976,
+        "sademäärä_vuosi_mm": 618
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/320px-Flag_of_Russia.svg.png",
+        "nimi": "Venäjä",
+        "väestömäärä": 144104080,
+        "metsäpinta-ala": 49.7843360788722,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 11.1266183699469,
+        "elinajanodote": 72.6621951219512,
+        "sademäärä_vuosi_mm": 460
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/320px-Flag_of_Estonia.svg.png",
+        "nimi": "Viro",
+        "väestömäärä": 1331057,
+        "metsäpinta-ala": 56.0938578329883,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 12.1030850007224,
+        "elinajanodote": 78.2439024390244,
+        "sademäärä_vuosi_mm": 626
+    },
+    {
+        "lippu": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/320px-Flag_of_the_United_Kingdom.svg.png",
+        "nimi": "Yhdistynyt kuningaskunta",
+        "väestömäärä": 67215293,
+        "metsäpinta-ala": 13.1153639482495,
+        "co2päästöt_tonnia_per_henkilö_vuosi": 5.39870813789348,
+        "elinajanodote": 81.2560975609756,
+        "sademäärä_vuosi_mm": 1220
+    }
+]
