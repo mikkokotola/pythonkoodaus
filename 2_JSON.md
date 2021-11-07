@@ -4,17 +4,19 @@ Syksy 2021
 
 ## Hae tiedot
 - Tätä ja seuraavaa osiota varten tarvitsemme tiedostoja. Seuraa näitä ohjeita:
-    1. Mene selaimella osoitteeseen XXXX
+    1. Mene selaimella osoitteeseen https://github.com/mikkokotola/pythonkoodaus
     2. Paina vihreää nappia "Code" ja sitten "Download ZIP"
-    3. Tallenna tiedosto koneellesi kansioon XXX 
-    4. Avaa tiedostonhallinta, ja menee tuohon samaan kansioon
+    ![Lataa materiaali](./pics/Lataa_materiaali.png)
+    
+    3. Tallenna tiedosto koneellesi oletuskansioon 
+    4. Avaa tiedostonhallinta, ja mene tuohon samaan kansioon
     5. Paina tiedoston nimen päällä hiiren oikeaa nappia, ja valitse "Pura kaikki"
 
 ## Avaa koodieditori
 - Käytämme koodaukseen tästä eteenpäin Visual Studio code -sovellusta. Tee näin:
     1. Avaa koneellasi ohjelma "Visual Studio Code"
     2. Valitse ylävalikosta "File" ja sen alta "Open Folder"
-    3. Valitse se kansio, johon yllä purit hakemasi tiedostot
+    3. Valitse kansio "tehtävät" lataamasi kansion alta
     4. Valitse vasemmasta reunasta tehtävät -> data -> oppilaat.json
     5. Sinulla pitäisi nyt näkyä näytölläsi tiedosto, jossa on tietoa oppilaista
 
