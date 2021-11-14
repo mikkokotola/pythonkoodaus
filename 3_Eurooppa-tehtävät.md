@@ -2,6 +2,8 @@
 Mikko Kotola  
 Syksy 2021
 
+*Tätä osiota varten tarvitset tiedostot omalle koneellesi. Seuraa [näitä ohjeita](Ohje_ympäristön_valmistelu.md) tiedostojen hakemiseksi ja Visual Studio Coden avaamiseksi.*
+
 ## Koneelle vaadittavat ohjelmistot:
 - Visual Studio Code + Python extension (Microsoft)
 - Python 3:n viimeisin versio (nyt 3.9)

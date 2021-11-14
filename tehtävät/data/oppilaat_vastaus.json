@@ -1,0 +1,26 @@
+[
+    {
+        "nimi": "Jarkko",
+        "ikä": 11,
+        "lempiväri": "sininen",
+        "pituus": 130.1
+    },
+    {
+        "nimi": "Liisa",
+        "ikä": 13,
+        "lempiväri": "keltainen",
+        "pituus": 150
+    },
+    {
+        "nimi": "Pekka",
+        "ikä": 12,
+        "lempiväri": "keltainen",
+        "pituus": 145
+    },
+    {
+        "nimi": "Reetta",
+        "ikä": 13,
+        "lempiväri": "punainen",
+        "pituus": 142.5
+    }
+]

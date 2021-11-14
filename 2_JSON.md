@@ -2,23 +2,11 @@
 Mikko Kotola  
 Syksy 2021
 
-## Hae tiedot
-- Tätä ja seuraavaa osiota varten tarvitsemme tiedostoja. Seuraa näitä ohjeita:
-    1. Mene selaimella osoitteeseen https://github.com/mikkokotola/pythonkoodaus
-    2. Paina vihreää nappia "Code" ja sitten "Download ZIP"
-    ![Lataa materiaali](./pics/Lataa_materiaali.png)
-    
-    3. Tallenna tiedosto koneellesi oletuskansioon 
-    4. Avaa tiedostonhallinta, ja mene tuohon samaan kansioon
-    5. Paina tiedoston nimen päällä hiiren oikeaa nappia, ja valitse "Pura kaikki"
+*Tätä osiota varten tarvitset tiedostot omalle koneellesi. Seuraa [näitä ohjeita](Ohje_ympäristön_valmistelu.md) tiedostojen hakemiseksi ja Visual Studio Coden avaamiseksi.*
 
-## Avaa koodieditori
-- Käytämme koodaukseen tästä eteenpäin Visual Studio code -sovellusta. Tee näin:
-    1. Avaa koneellasi ohjelma "Visual Studio Code"
-    2. Valitse ylävalikosta "File" ja sen alta "Open Folder"
-    3. Valitse kansio "tehtävät" lataamasi kansion alta
-    4. Valitse vasemmasta reunasta tehtävät -> data -> oppilaat.json
-    5. Sinulla pitäisi nyt näkyä näytölläsi tiedosto, jossa on tietoa oppilaista
+## Avaa tiedosto oppilaat.json
+- Visual Studio Codessa: Valitse vasemmasta reunasta tehtävät -> data -> oppilaat.json
+- Sinulla pitäisi nyt näkyä näytölläsi tiedosto, jossa on tietoa oppilaista
 
 ## Yksinkertainen JSON: oppilaat
 - Mikä on JSON? JavaScript Object Notation. Käytännössä koneluettava tiedon tallennusmuoto. Tietoa, jota tietokoneella on helppo lukea.
