@@ -51,19 +51,8 @@ Oppilas: Liisa, ikä: 13, lempiväri: keltainen
 ...
 ```
 
-### H3 Väestömäärä
-*Esimerkki: E3_etsi_oppilas*  
-
-Tee ohjelma, joka kysyy käyttäjältä maan nimeä, ja näyttää sitten kyseisen maan väestömäärä. Data euroopan maiden väestömääristä on tiedostossa /data/maatiedot.json. 
-
-Ohjelman esimerkkituloste:
-```
-Mikä maa? Suomi
-Maan Suomi väestömäärä on 5530719.
-```
-
-### H4 Kaikki väestömäärät
-*Esimerkki: E4_kaikki_oppilaat*  
+### H3 Kaikki väestömäärät
+*Esimerkki: E3_kaikki_oppilaat*  
 
 Uudet aiheet:  
 - Odottaminen (sleep)
@@ -78,6 +67,18 @@ Maan Slovakia väestömäärä on 5458827
 Maan Slovenia väestömäärä on 2100126
 ...
 ```
+
+### H4 Väestömäärä
+*Esimerkki: E4_etsi_oppilas*  
+
+Tee ohjelma, joka kysyy käyttäjältä maan nimeä, ja näyttää sitten kyseisen maan väestömäärä. Data euroopan maiden väestömääristä on tiedostossa /data/maatiedot.json. 
+
+Ohjelman esimerkkituloste:
+```
+Mikä maa? Suomi
+Maan Suomi väestömäärä on 5530719.
+```
+
 ### H5 Väestömäärät järjestyksessä
 *Esimerkki: E3_oppilaat_pituusjärjestyksessä*  
 
