@@ -1,6 +1,6 @@
 # Tässä luetaan tietoa JSON-tiedostosta - älä muuta tätä
 import json
-with open('./data/väestömäärä.json', encoding='utf-8') as json_file:
+with open('./data/maatiedot.json', encoding='utf-8') as json_file:
     maat = json.load(json_file)
 
 # VAIHE 1: kysy käyttäjältä maan nimeä ja tallenna se muuttujaan etsittävä_maa
@@ -11,6 +11,6 @@ with open('./data/väestömäärä.json', encoding='utf-8') as json_file:
 for maa in maat:
     if maa['nimi'] == etsittävä_maa:
         maanimi =  # Valitse tässä maan ominaisuus nimi
-        arvo =   # Valitse tässä maan ominaisuus väestömäärä
-        print (f'Maan {maanimi} väestömäärä on {arvo}.')
+        väestömäärä =   # Valitse tässä maan ominaisuus väestömäärä
+        print (f'Maan {maanimi} väestömäärä on {väestömäärä}.')
         break

@@ -79,8 +79,43 @@ Mikä maa? Suomi
 Maan Suomi väestömäärä on 5530719.
 ```
 
-### H5 Väestömäärät järjestyksessä
-*Esimerkki: E3_oppilaat_pituusjärjestyksessä*  
+### H5 Metsäpinta-ala
+*AKTIVITEETTI: katsotaan Google Mapsista Suomen (Lahden) ja Irlannin satelliittikuvia. Katsotaan datasta metsäpinta-aloja. Keskustellaan Irlannin metsien historiasta.*  
+
+Tee ohjelma, joka kysyy käyttäjältä maan nimeä, ja näyttää sitten kuinka suuri osa (%) kyseisen maan pinta-alasta on metsää. Data euroopan maiden metsäpinta-aloista on tiedostossa /data/maatiedot.json. 
+
+Ohjelman esimerkkituloste:
+```
+Mikä maa? Ruotsi
+Maan Ruotsi metsäpinta-ala on 68.6946060739977 % maapinta-alasta.
+```
+
+### H6 Suurin metsäpinta-ala
+*Esimerkki: E6_pisin_oppilas*  
+
+Tee ohjelma, joka etsii sen Euroopan maan, jonka maa-alasta on kaikkein suurin osuus metsää. Ohjelman tulee sitten näyttää maan nimi ja tieto siitä, kuinka suuri osa (%) kyseisen maan pinta-alasta on metsää. Data euroopan maiden metsäpinta-aloista on tiedostossa /data/maatiedot.json. 
+
+Ohjelman esimerkkituloste:
+```
+Suhteessa eniten metsäpinta-alaa on maassa Mikämikämaa (50.0000000000 %)
+```
+Ota mallia esimerkkiohjelmasta, jossa etsitään pisin oppilas.
+
+### H7 Lipun tunnistaminen
+Uudet aiheet:  
+- Satunnaisuus (random)
+- Kuvan näyttäminen
+
+Tehtäväpohjassa on koodia, joka hakee yhden maan lipun internetistä (json-tiedosdossa määritellystä osoitteesta) ja näyttää sen käyttäjälle. Täydennä annettua koodia, ja tee peli, jossa pelaajalle näytetään jonkun satunnaisen Euroopan maan lippu. Pelaajan pitää tunnistaa lippu ja nimetä maa. Jos vastaus on oikein, peli tulostaa "Hienoa, oikein!". Jos vastaus on väärin, näytä viesti, joka kertoo oikean vastauksen. Esimerkiksi "Ou nou, väärin! Oikea vastaus oli Ruotsi."
+
+HUOM: jotta saat tehtäväpohjan toimimaan, aja ensin Visual Studio Coden terminaalissa seuraavat kaksi komentoa, jotka asentavat pythonin työkaluja tietojen hakemista ja kuvan näyttämistä varten: 
+```
+pip install requests
+pip install Pillow
+```
+
+### LISÄ1 Väestömäärät järjestyksessä
+*Esimerkki: LISÄ1_Esimerkki_oppilaat_pituusjärjestyksessä*  
 
 Uudet aiheet:  
 - Funktio
@@ -95,37 +130,13 @@ Maan Gibraltar väestömäärä on 33691
 ```
 Mikä on väestömäärältään Euroopan suurin maa?
 
-### H6 Metsäpinta-ala
-*AKTIVITEETTI: katsotaan Google Mapsista Suomen (Lahden) ja Irlannin satelliittikuvia. Katsotaan datasta metsäpinta-aloja. Minkälainen on Irlannin metsien historia?*  
+### LISÄ2 Astronautit avaruudessa
+Tehtäväpohjassa on koodia, joka hakee internetistä tiedot tällä hetkellä avaruudessa olevista astronauteista.
 
-Tee ohjelma, joka kysyy käyttäjältä maan nimeä, ja näyttää sitten kuinka suuri osa (%) kyseisen maan pinta-alasta on metsää. Data euroopan maiden metsäpinta-aloista on tiedostossa /data/maatiedot.json. 
-
-Ohjelman esimerkkituloste:
+Tee ohjelma, joka tulostaa kaikkien avaruudessa olevien astronauttien nimen (name) ja aluksen (craft). Ohjelman esimerkkituloste:
 ```
-Mikä maa? Ruotsi
-Maan Ruotsi metsäpinta-ala on 68.6946060739977 % maapinta-alasta.
-```
-
-### H7 Suurin metsäpinta-ala
-*Esimerkki: E7_pisin_oppilas*  
-
-Tee ohjelma, joka etsii sen Euroopan maan, jonka maa-alasta on kaikkein suurin osuus metsää. Ohjelman tulee sitten näyttää maan nimi ja tieto siitä, kuinka suuri osa (%) kyseisen maan pinta-alasta on metsää. Data euroopan maiden metsäpinta-aloista on tiedostossa /data/maatiedot.json. 
-
-Ohjelman esimerkkituloste:
-```
-Suhteessa eniten metsäpinta-alaa on maassa Mikämikämaa (50.0000000000 %)
-```
-Ota mallia esimerkkiohjelmasta, jossa etsitään pisin oppilas.
-
-### H8 Lipun tunnistaminen
-Uudet aiheet:  
-- Satunnaisuus (random)
-- Kuvan näyttäminen
-
-Tehtäväpohjassa on koodia, joka hakee yhden maan lipun internetistä (json-tiedosdossa määritellystä osoitteesta) ja näyttää sen käyttäjälle. Täydennä annettua koodia, ja tee peli, jossa pelaajalle näytetään jonkun satunnaisen Euroopan maan lippu. Pelaajan pitää tunnistaa lippu ja nimetä maa. Jos vastaus on oikein, peli tulostaa "Hienoa, oikein!". Jos vastaus on väärin, näytä viesti, joka kertoo oikean vastauksen. Esimerkiksi "Ou nou, väärin! Oikea vastaus oli Ruotsi."
-
-HUOM: jotta saat tehtäväpohjan toimimaan, aja ensin Visual Studio Coden terminaalissa seuraavat kaksi komentoa, jotka asentavat pythonin työkaluja tietojen hakemista ja kuvan näyttämistä varten: 
-```
-pip install requests
-pip install Pillow
+** Avaruudessa parhaillaan olevat astronautit **
+Astronautti: Mark Vande Hei, alus ISS
+Astronautti: Pyotr Dubrov, alus ISS
+...
 ```
