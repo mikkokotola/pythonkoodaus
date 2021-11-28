@@ -10,3 +10,6 @@ Mikko Kotola
 
 ## Ohje ympäristön valmisteluun (osat 2 ja 3)
 [Ohje ympäristön valmistelun ja koodin ajamiseen](Ohje_ympäristön_valmistelu.md)
+
+## Palautekysely:
+Palautekysely on osoitteessa https://forms.office.com/r/ThG6EgPN9R

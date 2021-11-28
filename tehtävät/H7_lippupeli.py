@@ -1,6 +1,7 @@
 import json
 import requests
 import time
+from random import choice
 from PIL import Image
 import io
 
@@ -9,7 +10,6 @@ with open('./data/maatiedot.json', encoding='utf-8') as json_file:
     maat = json.load(json_file)
 
 # Arvotaan satunnainen maa listasta
-from random import choice
 maa = choice(maat)
 
 print()
@@ -24,7 +24,6 @@ response = requests.get(lippuosoite)
 image_bytes = io.BytesIO(response.content)
 img = Image.open(image_bytes)
 img.show()
-
 
 # TEHTÄVÄ: pyydä käyttäjää arvaamaan maa ja tallenna se muuttujaan arvaus. Jos arvaus on oikein,
 # näytä viesti "Hienoa, oikein!". Jos arvaus on väärin, näytä viesti, joka kertoo oikean vastauksen
